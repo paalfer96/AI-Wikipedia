@@ -1,0 +1,7 @@
+{
+    "model_name": "allenai/t5-small-squad2-question-generation",
+    "num_beams": 5,
+    "num_return_sequences": 3,
+    "max_length": 64,
+    "threshold": 0.7
+}

@@ -1,0 +1,5 @@
+{
+    "main_url": "https://en.wikipedia.org/w/index.php?limit=$top_k&offset=0&profile=default&search=",
+    "last_url": "&title=Special:Search&profile=advanced&fulltext=1",
+    "article_url": "https://en.wikipedia.org/wiki/"
+}

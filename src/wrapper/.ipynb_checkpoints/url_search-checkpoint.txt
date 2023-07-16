@@ -1,0 +1,3 @@
+keywords: elephant,calculator,gym,tower,plummer
+
+https://en.wikipedia.org/w/index.php?search=elephant+OR+calculator+OR+gym+OR+tower+OR+plummer&title=Special:Search&profile=advanced&fulltext=1&advancedSearch-current=%7B%22fields%22%3A%7B%22or%22%3A%5B%22elephant%22%2C%22calculator%22%2C%22gym%22%2C%22tower%22%2C%22plummer%22%5D%7D%7D&ns0=1
