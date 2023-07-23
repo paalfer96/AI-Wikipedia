@@ -1,0 +1,11 @@
+{
+    "model_name": "cross-encoder/ms-marco-MiniLM-L-12-v2",
+    "params": {
+        "BM25Retriever": {
+            "top_k": 10
+        },
+        "Ranker": {
+            "top_k": 10
+        }
+    }
+}
