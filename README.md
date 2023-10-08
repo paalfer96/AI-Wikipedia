@@ -1,6 +1,6 @@
 #### Welcome to AI Wikipedia!
 
-![AI Wikiedia](https://github.com/paalfer96/AI-Wikipedia/images/introduction.jpg)
+<img src = "images/introduction.jpg" width = 500>
 
 Welcome to AI Wikipedia, your gateway to a world of knowledge powered by cutting-edge artificial intelligence technology. With this innovative application, you can delve into the depths of information and engage with it in ways you've never imagined.
 
