@@ -1,4 +1,4 @@
-#### Welcome to AI Wikipedia!
+# Welcome to AI Wikipedia!
 
 <img src = "images/introduction.jpg" width = 1000>
 
